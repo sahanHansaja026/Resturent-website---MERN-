@@ -102,7 +102,7 @@ client/
 
 ## Individual Contributions
 
-- **22ug2-xxxx** - [Your Name]
+- **22ug2-0201** - Isitha Nawod
   - Designed and implemented the **Frontend** components (e.g., `home.js`, `createpost.js`, `editpost.js`, etc.).
   - Integrated the frontend with the backend to ensure data retrieval and display.
 
